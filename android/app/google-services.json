@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144687589221",
+    "project_id": "peacefulness-app-2268f",
+    "storage_bucket": "peacefulness-app-2268f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144687589221:android:cc1a9c8a2ddf2566cc238c",
+        "android_client_info": {
+          "package_name": "com.example.peacefulness_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144687589221-ajq9325c43s2vdh8ihtbshcit07kcohb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55Mn7bYKkaCLyIN6jJjZaeVUbeCBhl4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144687589221-ajq9325c43s2vdh8ihtbshcit07kcohb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
