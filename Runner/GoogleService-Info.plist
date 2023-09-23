@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>144687589221-u85d333mg0r51qb06u85nhtl1mv3m230.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.144687589221-u85d333mg0r51qb06u85nhtl1mv3m230</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwDjFARvlI6ptUcRBxOJOEH5zP-fFtZ-Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>144687589221</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.peacefulnessApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>peacefulness-app-2268f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>peacefulness-app-2268f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:144687589221:ios:7e750b92ec6dc491cc238c</string>
+</dict>
+</plist>
